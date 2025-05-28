@@ -1,0 +1,17 @@
+export default function Home() {
+  return (
+    <main className="flex min-h-screen flex-col items-center justify-center p-24">
+      <div className="text-center">
+        <h1 className="text-6xl font-bold text-purple-800 mb-4">
+          SA Luxe Events
+        </h1>
+        <p className="text-2xl text-gray-600 mb-8">
+          Transforming Moments into Memories
+        </p>
+        <p className="text-lg text-gray-500">
+          Website coming soon...
+        </p>
+      </div>
+    </main>
+  )
+}
